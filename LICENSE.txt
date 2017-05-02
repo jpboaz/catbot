@@ -1,0 +1,7 @@
+Copyright 2017 Julian Boaz
+
+Permission to use will only be granted after approval from myself with the except of Charlton Trezevant due to being a co-author
+
+This notice shall be used in all copies of the software
+
+I am not responsible for any misuse of this program
