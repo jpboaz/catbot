@@ -24,7 +24,7 @@ r = praw.Reddit(client_id='',
 ```
 You will need this in every bot that you create. 
 
-If you have any questions or need any help, feel free to contact myself or [Charlton](). Being fair, Charlton is by in large a much more experienced developer than myself and has way more languages under his belt.
+If you have any questions or need any help, feel free to contact myself or [Charlton](https://github.com/ctrezevant). Being fair, Charlton is by in large a much more experienced developer than myself and has way more languages under his belt.
 
 Also as stated in the license, please contact me before copying the code.
 
